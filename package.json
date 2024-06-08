@@ -1,0 +1,20 @@
+{
+  "name": "servidorfastify",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "scripts": {
+    "build": "tsc",
+    "dev": "node dist/servidor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "^4.27.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
